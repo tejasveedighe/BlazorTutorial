@@ -15,7 +15,7 @@ namespace EmployeeManagement.Web.Components.Pages
 
         private void LoadEmployees()
         {
-            System.Threading.Thread.Sleep(3000);
+            System.Threading.Thread.Sleep(5000);
             Employee e1 = new Employee
             {
                 EmployeeId = 1,
